@@ -2,7 +2,7 @@
 
 ## REV DUO
 
-The REV DUO line of parts work together for a dual purpose: to create competition-grade robots geared towards participating in the FIRST Tech Challenge or to be used in the classroom for STEM Education.REV Robotics is committed to designing high-quality products that make robotics accessible for any skill level. Since 2014, we have continued to iterate and adapt to the educational robotics community's needs by developing new products and refining our current product selection.
+The REV DUO line of parts work together for a dual purpose: to create competition-grade robots geared towards participating in the FIRST Tech Challenge or to be used in the classroom for STEM Education.REV Robotics is committed to designing high-quality products that make robotics accessible for any skill level. Since 2014, we have continued to iterate and adapt to the educational robotics community's needs by developing new products and refining our current product selection. ggg
 
 ### What is REV DUO? <a href="#what-is-rev-duo" id="what-is-rev-duo"></a>
 
